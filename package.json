@@ -3,9 +3,11 @@
 	"description": "A project that does something awesome",
 	"keywords": ["API","microservices","json","jacascript","backend","freecodecamp"],
 	"license": "MIT",
+	"version": "1.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
