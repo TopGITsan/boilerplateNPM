@@ -18,5 +18,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/TopGITsan/boilerplateNPM.git"
+	},
+	"glitch":{
+		"url": "https://glitch.com/edit/#!/storm-diamond?path=package.json:23:0"
 	}
 }
